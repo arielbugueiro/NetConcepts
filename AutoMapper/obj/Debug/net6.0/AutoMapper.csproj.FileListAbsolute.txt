@@ -1,0 +1,6 @@
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\AutoMapper\obj\Debug\net6.0\AutoMapper.csproj.AssemblyReference.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\AutoMapper\obj\Debug\net6.0\AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\AutoMapper\obj\Debug\net6.0\AutoMapper.AssemblyInfoInputs.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\AutoMapper\obj\Debug\net6.0\AutoMapper.AssemblyInfo.cs
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\AutoMapper\obj\Debug\net6.0\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\AutoMapper\obj\Debug\net6.0\AutoMapper.MvcApplicationPartsAssemblyInfo.cache

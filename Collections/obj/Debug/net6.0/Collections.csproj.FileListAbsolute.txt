@@ -1,0 +1,15 @@
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\bin\Debug\net6.0\Collections.exe
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\bin\Debug\net6.0\Collections.deps.json
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\bin\Debug\net6.0\Collections.dll
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\bin\Debug\net6.0\Collections.pdb
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.dll
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\refint\Collections.dll
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.pdb
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+C:\Users\ariel.bugueiro\Desktop\Adviser\Concepts\Collections\obj\Debug\net6.0\ref\Collections.dll

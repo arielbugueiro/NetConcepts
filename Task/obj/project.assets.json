@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {},
+    ".NETFramework,Version=v6.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ariel.bugueiro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GlobalLogic\\Adviser\\Concepts\\Task\\Task.csproj",
+      "projectName": "Task",
+      "projectPath": "D:\\GlobalLogic\\Adviser\\Concepts\\Task\\Task.csproj",
+      "packagesPath": "C:\\Users\\ariel.bugueiro\\.nuget\\packages\\",
+      "outputPath": "D:\\GlobalLogic\\Adviser\\Concepts\\Task\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ariel.bugueiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://dcnexus1.drivecaminc.loc:8081/nexus/content/repositories/Lytx-Release-NuGet/": {},
+        "http://dcnexus1.drivecaminc.loc:8081/nexus/content/repositories/Lytx-ThirdParty-NuGet-Repo/": {},
+        "http://dcnexus1.drivecaminc.loc:8081/nexus/repository/Lytx-Release-NuGet-Repo/": {},
+        "http://dcnexus1.drivecaminc.loc:8081/nexus/repository/Lytx-ThirdParty-NuGet-Repo/": {}
+      },
+      "frameworks": {
+        "net60": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {
+        "targetAlias": "net6.0",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

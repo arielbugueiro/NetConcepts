@@ -1,0 +1,20 @@
+﻿
+Tipos de Accesibilidad: 
+
+→ Tipo de valor: variables, enum, bool, struct, etc. 
+→ Tipo de referencia: clases, interfaces, matrices, etc.
+
+
+
+Accesibilidad a nivel variable:
+
+Public→ Nos otorga un nivel de accesibilidad publico, lo que hace que no haya ninguna reestricción para acceder variables que contengan este tipo de accesibilidad public.
+Es decir los miembros de la clase (métodos, contenido de clase) pueden acceder a la variable. Y también podemos acceder a la variable desde otra clase o cualquier parte del proyecto, siempre y cuando Instanciemos esa clase [Bicicleta miBicicleta = new Bicicleta();]
+
+Private→ Es un modificador de acceso para miembros que nos otorga un nivel de accesibilidad igual, es decir privado. Los miembros privados SOLO son accesibles dentro del cuerpo de la clase o la estructura en la que se declaran (mismo bloque de código).
+
+Protected → Las variables protected sólo son accesibles dentro del código de la misma clase y de clases que van a derivar de estas, las clases hijas (herencia).
+
+
+Por defecto el tipo de accesibilidad de las clases son Internal.
+Por defecto el tipo de accesibilidad de las variables son private.

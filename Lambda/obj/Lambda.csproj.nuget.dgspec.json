@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GlobalLogic\\Adviser\\Concepts\\Lambda\\Lambda.csproj": {}
+  },
+  "projects": {
+    "D:\\GlobalLogic\\Adviser\\Concepts\\Lambda\\Lambda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GlobalLogic\\Adviser\\Concepts\\Lambda\\Lambda.csproj",
+        "projectName": "Lambda",
+        "projectPath": "D:\\GlobalLogic\\Adviser\\Concepts\\Lambda\\Lambda.csproj",
+        "packagesPath": "C:\\Users\\ariel.bugueiro\\.nuget\\packages\\",
+        "outputPath": "D:\\GlobalLogic\\Adviser\\Concepts\\Lambda\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ariel.bugueiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcnexus1.drivecaminc.loc:8081/nexus/content/repositories/Lytx-Release-NuGet/": {},
+          "http://dcnexus1.drivecaminc.loc:8081/nexus/content/repositories/Lytx-ThirdParty-NuGet-Repo/": {},
+          "http://dcnexus1.drivecaminc.loc:8081/nexus/repository/Lytx-Release-NuGet-Repo/": {},
+          "http://dcnexus1.drivecaminc.loc:8081/nexus/repository/Lytx-ThirdParty-NuGet-Repo/": {}
+        },
+        "frameworks": {
+          "net60": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "targetAlias": "net6.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.419\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
